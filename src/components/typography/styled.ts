@@ -1,5 +1,4 @@
 import styled, { css } from "styled-components";
-import { ReactNode } from "react";
 
 const headingMargin = css`
   margin: 15px 0;

@@ -1,10 +1,10 @@
-import React, { HTMLAttributes } from 'react';
+import React, { HTMLAttributes } from "react";
 export interface LoginModel {
     email?: string;
     password?: string;
 }
 export type SubmitHandler = (fieldValues: LoginModel) => void;
-export interface LoginProps extends Omit<HTMLAttributes<HTMLFormElement>, 'onSubmit'> {
+export interface LoginProps extends Omit<HTMLAttributes<HTMLFormElement>, "onSubmit"> {
     onSubmit?: SubmitHandler;
     initialValues?: LoginModel;
     loading?: boolean;

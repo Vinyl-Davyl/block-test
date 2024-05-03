@@ -11,4 +11,5 @@ export { default as Typography } from "./typography";
 export { default as Avatar } from "./avatar";
 export { default as Card } from "./card";
 export { default as Modal } from "./modal";
+export { default as Header } from "./header";
 //# sourceMappingURL=index.d.ts.map
