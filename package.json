@@ -1,6 +1,6 @@
 {
-  "name": "build-blocks",
-  "version": "0.0.0",
+  "name": "build-blockerizer",
+  "version": "0.0.1",
   "main": "lib/index.js",
   "type": "module",
   "scripts": {
