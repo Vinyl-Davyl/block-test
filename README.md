@@ -1,10 +1,5 @@
-<p align="center">
-  <a href="https://www.npmjs.com/package/vinyl-component-blocks">
-     <img src="./src/assets/vc-logo.png" alt="VC logo" width="100" />
-  </a>
-</p>
 
-<h1 align="center">Vinyl Component Blocks Test ⚡️</h1>
+<h1 align="center">Vinyl Component Blocks Test 🧱</h1>
 <br />
 
 <p align="center">
